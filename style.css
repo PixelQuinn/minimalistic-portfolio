@@ -429,3 +429,14 @@ footer {
 footer p {
     text-align: center;
 }
+  
+@-moz-document url-prefix() {
+    .about-pic {
+      margin-top: 100px; /* Adjust margin as needed */
+    }
+    .about-details-container .about-containers {
+      margin-top: 100px; /* Reset the height to auto */
+    }
+}
+  
+  
