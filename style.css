@@ -357,8 +357,6 @@ article .icon {
 
 #projects {
     position: relative;
-    padding-bottom: 4rem;
-    margin-bottom: 4rem;
 }
 
 .color-container {
@@ -389,6 +387,8 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
+    padding-top: auto;
+    margin-top: auto;
 }
 
 .contact-info-upper-container {
