@@ -387,8 +387,8 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
-    padding-top: auto;
-    margin-top: auto;
+    padding-top: 30rem;
+    margin-top: 30rem;
 }
 
 .contact-info-upper-container {
