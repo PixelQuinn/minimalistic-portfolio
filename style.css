@@ -387,8 +387,6 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
-    padding-top: 30rem;
-    margin-top: 30rem;
 }
 
 .contact-info-upper-container {
@@ -435,10 +433,10 @@ footer p {
   
 @-moz-document url-prefix() {
     .about-pic {
-      margin-top: 100px; /* Adjust margin as needed */
+      margin-top: 100px;
     }
     .about-details-container .about-containers {
-      margin-top: 100px; /* Reset the height to auto */
+      margin-top: 100px;
     }
 }
   
